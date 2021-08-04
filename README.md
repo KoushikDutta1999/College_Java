@@ -22,3 +22,17 @@
 - biggest number
 - class_rect
 - complex_n
+- const_overloading.java
+- const_rect.java
+- facto.java
+- func_fact.java
+- func_sum.java
+- inheritance_1.java
+- matrix.java
+- overriding.java
+- palindrome.java
+- pattern.java
+- pattern_1.java
+- pattern_2.java
+- rateofInterest.java
+- summation.java
