@@ -36,3 +36,7 @@
 - pattern_2.java
 - rateofInterest.java
 - summation.java
+- switch_temp.java
+- temp.java
+- temperature_avarage.java
+- triangle.java
