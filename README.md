@@ -14,3 +14,11 @@
 - Write a program in Java to capitalize the first letter of each word in a sentence.
 - Super Test
 - Write a program in Java to check a person is Eligible to vote or not.
+- area
+- arr_max_min
+- arr_search
+- arr_sort
+- avgmarks
+- biggest number
+- class_rect
+- complex_n
